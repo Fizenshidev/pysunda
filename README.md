@@ -64,7 +64,4 @@ Proyék ieu dilisensikeun dina [MIT License](LICENSE).
 
 ### Nuhun tos mampir, sareng mugia proyék ieu tiasa jadi pituduh pikeun anu hoyong ngoding maké basa Sunda 🌺
 
-```
-
----
 
